@@ -1,0 +1,9 @@
+#div-div__card {
+  display: flex;
+  height: 25%;
+  width: 20%;
+  background-color: rgb(0, 0, 0);
+  border-radius: 15px;
+  align-items: center;
+  justify-content: center;
+}

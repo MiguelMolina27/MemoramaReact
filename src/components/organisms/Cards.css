@@ -1,0 +1,6 @@
+#div-div__cards {
+  display: flex;
+  flex-wrap: wrap;
+  width: 80%;
+  height: 80%;
+}
